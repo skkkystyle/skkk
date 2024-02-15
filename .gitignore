@@ -1,0 +1,14 @@
+cmake-build-debug
+.idea
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+build
+*.exe
+*.o
+bin
+cat
+pi
+test
+libLongNumskkk.so
